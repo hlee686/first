@@ -1,6 +1,6 @@
 # first
 
-The main purpose of this repository is learning git as a beginner.
+The primary purpose of this repository is learning git as a beginner.
 
 [See Demo](https://www.google.com)
 
