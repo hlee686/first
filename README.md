@@ -1,4 +1,4 @@
-# first
+# First
 
 The primary purpose of this repository is learning git as a beginner.
 
